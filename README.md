@@ -1,5 +1,5 @@
 
-# Assignment 1 - Cross-Cloud Event-Driven Storage Replicator (Minimal)
+Cross-Cloud Event-Driven Storage Replicator (Minimal)
 This is a minimal FastAPI service exposing POST /v1/replicate.
 
 Run (locally):
